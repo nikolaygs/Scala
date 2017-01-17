@@ -25,6 +25,7 @@
  list-users – извежда списък със всички активни в момента потребители
 
  send <username> <message> - изпраща лично съобщение до даден потребител.
+ send-room <room_name> <message> - изпраща съобщение до дадена стая.
  send-file <username> <file_location> - изпраща файл до потребител.
 
  create-room <room_name> - създава нова стая
